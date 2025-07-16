@@ -1,5 +1,5 @@
 # 💫 About Me:
-#  Hi there, I'm Aavani U B!<br><br> B.Tech IT Student |  Web Developer |  Passionate about Tech & Problem Solving<br><br>I'm a second-year engineering student with a love for building clean, user-focused web applications. I enjoy creating solutions that are not only functional but also meaningful. Whether it's a simple landing page or a smart AI-powered platform — I love learning by doing.<br><br>---<br><br><br> 
+#  Hi there, I'm Aavani U B!<br><br> B.Tech IT Student |  Web Developer |  Passionate about Tech & Problem Solving<br><br>I'm a second-year engineering student with a love for building clean, user-focused web applications. I enjoy creating solutions that are not only functional but also meaningful. Whether it's a simple landing page or a smart AI-powered platform — I love learning by doing.<br><br><br><br><br> 
 
 
 # 💻 Tech Stack:
